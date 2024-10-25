@@ -1,0 +1,32 @@
+ === Summary of observations and global poolmask for db=CCMA ===
+        TSLOT      OBSTYPE     CODETYPE       SENSOR     BUFRTYPE      SUBTYPE       POOLNO      HDR-cnt     BODY-cnt       MMXBDY
+            1            1           11            0            1            0            1            1            1            1
+            1            1           11            0            1            0            2            7            7            1
+            1            1           11            0            1            0            3            3            3            1
+            1            1           11            0            1            0            4            3            3            1
+            1            1           14            0            1            0            1           24           24            1
+            1            1           14            0            1            0            2           21           21            1
+            1            1           14            0            1            0            3           17           17            1
+            1            1           14            0            1            0            4            8            8            1
+            1            1           16            0            1            0            2            1            1            1
+            1            1           16            0            1            0            3            4            4            1
+            1            1           16            0            1            0            4           24           24            1
+            1            1           24            0            1            0            1            8            8            1
+            1            1           24            0            1            0            2            2            2            1
+            1            1          110            0          999          110            1           30           30            1
+            1            1          110            0          999          110            2           32           32            1
+            1            1          110            0          999          110            3           39           39            1
+            1            1          110            0          999          110            4           28           28            1
+            1            2          144            0          999            0            1           20           60            3
+            1            2          144            0          999            0            2           20           60            3
+            1            2          144            0          999            0            3           20           60            3
+            1            2          144            0          999            0            4           21           63            3
+ > Min & max pool number referred  :         1         4
+ > Max. no. of pools in allocated  :         4
+ > Minimum and maximum time slot   :         1         1
+ > Minimum and maximum hdr-count   :         1        39
+ > Minimum and maximum body-count  :         1        63
+ > Grand total no. of  hdr-entries :       333
+ > Grand total no. of body-entries :       495
+ > Grand total maximum body-length :         3
+ === End of summary of observations and global poolmask ===
